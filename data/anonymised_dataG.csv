@@ -6,6 +6,7 @@ Male,0,Higher Education,Domestic,Married,Red,36-65,Region A
 Male,1,Unknown,Unknown,Married,Green,Unknown,Unknown
 Male,1,Basic Education,Domestic,Single,Green,36-65,Region B
 Female,1,Unknown,Unknown,Single,Red,Unknown,Unknown
+Female,1,Unknown,Unknown,Single,Invalid vote,Unknown,Unknown
 Male,0,Basic Education,Domestic,Single,Red,36-65,Region B
 Male,1,Higher Education,Domestic,Single,Green,36-65,Region B
 Male,0,Basic Education,Domestic,Married,Green,65+,Region B
@@ -59,6 +60,7 @@ Male,1,Basic Education,Domestic,Married,Green,65+,Region B
 Male,0,Higher Education,Domestic,Married,Green,36-65,Region B
 Female,1,Basic Education,Domestic,Single,Red,36-65,Region B
 Male,0,Higher Education,Domestic,Married,Green,36-65,Region A
+Female,1,Higher Education,Domestic,Married,Invalid vote,36-65,Region B
 Female,0,Higher Education,Domestic,Single,Green,36-65,Region B
 Female,1,Higher Education,Domestic,Single,Red,18-35,Region B
 Female,1,Higher Education,Domestic,Married,Green,36-65,Region B
@@ -82,6 +84,7 @@ Male,0,Basic Education,Domestic,Single,Green,36-65,Region B
 Male,0,Higher Education,Domestic,Married,Red,36-65,Region B
 Female,0,Basic Education,Domestic,Single,Green,36-65,Region B
 Male,0,Higher Education,Domestic,Married,Red,65+,Region B
+Female,0,Higher Education,Domestic,Married,Invalid vote,36-65,Region B
 Female,0,Higher Education,Domestic,Married,Red,36-65,Region B
 Male,0,Unknown,Unknown,Married,Green,Unknown,Unknown
 Male,0,Higher Education,Domestic,Married,Green,36-65,Region B
@@ -90,9 +93,11 @@ Female,1,Unknown,Unknown,Single,Red,Unknown,Unknown
 Female,0,Higher Education,Domestic,Married,Red,36-65,Region B
 Male,0,Higher Education,Domestic,Single,Green,65+,Region B
 Male,1,Basic Education,Domestic,Single,Green,36-65,Region B
+Male,0,Basic Education,Domestic,Married,Invalid vote,36-65,Region B
 Female,0,Basic Education,Domestic,Married,Red,36-65,Region B
 Male,1,Higher Education,Domestic,Married,Red,36-65,Region B
 Female,0,Unknown,Unknown,Single,Red,Unknown,Unknown
+Male,1,Unknown,Unknown,Single,Invalid vote,Unknown,Unknown
 Male,0,Higher Education,Domestic,Married,Green,36-65,Region B
 Female,1,Unknown,Unknown,Married,Red,Unknown,Unknown
 Male,0,Unknown,Unknown,Married,Red,Unknown,Unknown
@@ -126,6 +131,7 @@ Male,0,Higher Education,Domestic,Married,Red,36-65,Region B
 Female,0,Unknown,Unknown,Married,Red,Unknown,Unknown
 Female,0,Unknown,Unknown,Single,Green,Unknown,Unknown
 Female,1,Basic Education,Domestic,Single,Green,18-35,Region B
+Female,0,Higher Education,Domestic,Single,Invalid vote,36-65,Region B
 Male,0,Higher Education,Domestic,Single,Green,36-65,Region B
 Female,0,Higher Education,Domestic,Single,Green,18-35,Region B
 Male,1,Higher Education,Domestic,Married,Red,36-65,Region B
@@ -171,6 +177,7 @@ Female,0,Higher Education,Domestic,Single,Green,36-65,Region A
 Male,0,Basic Education,Domestic,Single,Green,18-35,Region A
 Male,0,Basic Education,Domestic,Married,Green,36-65,Region B
 Male,0,Basic Education,Domestic,Single,Red,36-65,Region B
+Female,0,Unknown,Unknown,Single,Invalid vote,Unknown,Unknown
 Male,0,Unknown,Unknown,Married,Green,Unknown,Unknown
 Male,0,Higher Education,Domestic,Married,Red,36-65,Region A
 Male,1,Unknown,Unknown,Married,Green,Unknown,Unknown
@@ -182,6 +189,7 @@ Male,1,Higher Education,Domestic,Married,Red,36-65,Region A
 Female,0,Higher Education,Domestic,Single,Red,18-35,Region A
 Female,0,Unknown,Unknown,Married,Green,Unknown,Unknown
 Female,1,Unknown,Unknown,Married,Red,Unknown,Unknown
+Male,1,Higher Education,Domestic,Married,Invalid vote,36-65,Region B
 Female,1,Unknown,Unknown,Married,Red,Unknown,Unknown
 Male,0,Basic Education,Domestic,Married,Red,65+,Region B
 Female,0,Higher Education,Domestic,Single,Red,36-65,Region B
