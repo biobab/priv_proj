@@ -1,0 +1,197 @@
+sex,evote,zip,education,citizenship,marital_status,party,age
+Female,0,1,University,Other,In relationship,Red,40-59
+Male,0,3,University,Denmark,In relationship,Red,40-59
+Female,0,1,University,Denmark,In relationship,Green,40-59
+Male,1,0,University,Denmark,In relationship,Green,40-59
+Male,0,3,University,Denmark,Not in relationship,Green,40-59
+Male,0,1,University,Denmark,Not in relationship,Green,40-59
+Male,1,2,University,Denmark,In relationship,Red,40-59
+Female,1,0,University,Denmark,In relationship,Red,40-59
+Female,0,0,University,Other,Not in relationship,Green,40-59
+Female,0,3,University,Denmark,In relationship,Red,40-59
+Male,1,0,University,Denmark,Not in relationship,Green,40-59
+Female,1,0,Other,Denmark,Not in relationship,Green,40-59
+Female,1,0,University,Denmark,Not in relationship,Red,40-59
+Female,0,1,Other,Denmark,In relationship,Red,40-59
+Female,0,3,Other,Denmark,Not in relationship,Green,40-59
+Female,0,0,University,Denmark,In relationship,Red,40-59
+Female,0,3,University,Denmark,Not in relationship,Red,40-59
+Male,1,0,Other,Denmark,Not in relationship,Green,40-59
+Female,0,0,Other,Denmark,In relationship,Green,40-59
+Female,0,3,University,Denmark,In relationship,Red,40-59
+Female,0,2,University,Denmark,Not in relationship,Green,40-59
+Male,0,0,University,Denmark,In relationship,Red,40-59
+Male,1,0,University,Denmark,Not in relationship,Red,40-59
+Male,1,2,University,Denmark,In relationship,Green,40-59
+Female,0,0,Other,Denmark,In relationship,Red,40-59
+Male,1,0,University,Denmark,Not in relationship,Green,40-59
+Female,1,0,Other,Denmark,Not in relationship,Red,40-59
+Female,1,1,University,Other,Not in relationship,Green,40-59
+Male,0,3,University,Denmark,In relationship,Red,40-59
+Male,1,0,University,Denmark,Not in relationship,Red,40-59
+Male,0,1,University,Denmark,Not in relationship,Red,40-59
+Female,1,1,Other,Denmark,Not in relationship,Green,40-59
+Female,0,0,University,Denmark,In relationship,Red,40-59
+Female,0,2,University,Denmark,In relationship,Red,40-59
+Female,1,1,University,Denmark,Not in relationship,Red,40-59
+Male,1,1,University,Denmark,In relationship,Green,40-59
+Male,0,2,Other,Denmark,In relationship,Green,40-59
+Male,1,1,University,Denmark,In relationship,Green,40-59
+Female,1,2,University,Denmark,Not in relationship,Green,40-59
+Female,1,3,Other,Denmark,Not in relationship,Green,40-59
+Female,0,2,University,Other,In relationship,Green,40-59
+Male,0,0,University,Denmark,Not in relationship,Red,40-59
+Female,1,1,University,Denmark,In relationship,Green,40-59
+Male,0,0,University,Denmark,Not in relationship,Green,40-59
+Female,1,2,University,Denmark,Not in relationship,Red,40-59
+Female,1,0,University,Denmark,Not in relationship,Green,40-59
+Female,0,3,Other,Denmark,Not in relationship,Green,40-59
+Female,0,2,Other,Denmark,In relationship,Green,40-59
+Male,0,0,University,Denmark,Not in relationship,Red,40-59
+Male,0,0,University,Denmark,Not in relationship,Green,40-59
+Female,0,2,Other,Other,In relationship,Green,40-59
+Female,0,0,University,Denmark,Not in relationship,Green,40-59
+Male,1,1,Other,Denmark,Not in relationship,Red,40-59
+Male,0,3,Other,Denmark,Not in relationship,Green,40-59
+Female,1,0,Other,Denmark,In relationship,Red,40-59
+Female,0,2,Other,Denmark,In relationship,Red,40-59
+Male,1,0,Other,Denmark,Not in relationship,Red,40-59
+Female,0,2,University,Denmark,Not in relationship,Green,40-59
+Female,0,3,University,Denmark,Not in relationship,Green,40-59
+Female,0,0,University,Denmark,In relationship,Green,40-59
+Female,0,0,Other,Denmark,In relationship,Red,40-59
+Male,1,3,University,Denmark,Not in relationship,Green,40-59
+Female,0,2,Other,Denmark,Not in relationship,Red,40-59
+Female,0,1,University,Denmark,Not in relationship,Green,40-59
+Female,0,1,University,Other,Not in relationship,Green,40-59
+Female,0,0,Other,Denmark,Not in relationship,Green,40-59
+Male,0,1,University,Denmark,In relationship,Green,40-59
+Male,0,3,University,Denmark,In relationship,Red,40-59
+Female,0,0,Other,Denmark,In relationship,Red,40-59
+Male,1,0,University,Denmark,In relationship,Green,40-59
+Male,0,1,Other,Denmark,In relationship,Green,40-59
+Male,1,0,University,Other,Not in relationship,Red,40-59
+Male,1,3,University,Denmark,Not in relationship,Green,40-59
+Male,1,3,University,Denmark,Not in relationship,Green,40-59
+Female,0,0,Other,Denmark,Not in relationship,Green,40-59
+Female,0,2,Other,Denmark,In relationship,Red,40-59
+Female,0,1,University,Denmark,Not in relationship,Red,40-59
+Female,0,2,University,Denmark,Not in relationship,Green,40-59
+Female,1,1,Other,Denmark,In relationship,Green,40-59
+Male,0,3,University,Denmark,In relationship,Red,40-59
+Female,0,0,University,Denmark,In relationship,Green,40-59
+Female,0,1,University,Denmark,In relationship,Red,40-59
+Female,0,2,University,Denmark,In relationship,Green,40-59
+Female,0,0,University,Denmark,Not in relationship,Red,40-59
+Female,0,1,University,Denmark,In relationship,Green,40-59
+Female,1,0,University,Other,In relationship,Red,40-59
+Female,0,2,Other,Denmark,Not in relationship,Red,40-59
+Male,0,2,University,Denmark,Not in relationship,Red,40-59
+Male,0,0,University,Denmark,Not in relationship,Red,40-59
+Male,1,3,University,Denmark,Not in relationship,Green,40-59
+Male,0,2,University,Denmark,In relationship,Green,40-59
+Female,1,2,University,Denmark,In relationship,Green,40-59
+Male,1,0,University,Denmark,In relationship,Red,40-59
+Male,0,2,University,Denmark,Not in relationship,Red,40-59
+Male,0,2,University,Denmark,In relationship,Green,40-59
+Female,1,0,University,Denmark,Not in relationship,Green,40-59
+Female,0,3,Other,Denmark,In relationship,Green,40-59
+Female,0,0,University,Denmark,In relationship,Red,40-59
+Male,1,2,University,Denmark,Not in relationship,Green,40-59
+Male,0,1,University,Denmark,In relationship,Green,40-59
+Female,0,2,University,Denmark,Not in relationship,Green,40-59
+Female,0,3,University,Denmark,In relationship,Green,40-59
+Female,1,0,University,Denmark,Not in relationship,Green,40-59
+Female,0,3,University,Denmark,Not in relationship,Red,40-59
+Female,1,2,University,Denmark,Not in relationship,Red,40-59
+Male,0,3,University,Denmark,Not in relationship,Green,40-59
+Male,0,2,University,Denmark,In relationship,Green,40-59
+Male,0,2,Other,Denmark,Not in relationship,Green,40-59
+Female,0,1,University,Denmark,Not in relationship,Green,40-59
+Female,0,0,University,Denmark,Not in relationship,Red,40-59
+Female,0,0,Other,Denmark,In relationship,Green,40-59
+Female,0,0,Other,Denmark,In relationship,Red,40-59
+Male,1,0,University,Denmark,In relationship,Red,40-59
+Male,0,2,Other,Other,In relationship,Green,40-59
+Male,1,1,University,Denmark,Not in relationship,Green,40-59
+Female,0,2,University,Denmark,In relationship,Red,40-59
+Female,0,2,University,Denmark,In relationship,Red,40-59
+Female,0,2,University,Denmark,Not in relationship,Green,40-59
+Male,1,3,University,Denmark,In relationship,Green,40-59
+Male,0,1,University,Denmark,In relationship,Green,40-59
+Female,0,0,University,Denmark,In relationship,Red,40-59
+Male,0,1,University,Denmark,In relationship,Green,40-59
+Male,0,0,University,Denmark,In relationship,Red,40-59
+Male,0,0,Other,Denmark,In relationship,Red,40-59
+Female,0,2,University,Denmark,In relationship,Red,40-59
+Female,1,2,Other,Denmark,Not in relationship,Green,40-59
+Female,1,2,Other,Other,In relationship,Green,40-59
+Female,1,2,University,Denmark,In relationship,Green,40-59
+Female,1,3,University,Denmark,Not in relationship,Green,40-59
+Male,0,1,University,Denmark,In relationship,Green,40-59
+Female,0,0,University,Denmark,In relationship,Green,40-59
+Female,0,0,University,Denmark,Not in relationship,Green,40-59
+Female,1,2,University,Denmark,Not in relationship,Red,40-59
+Female,0,0,University,Denmark,Not in relationship,Red,40-59
+Male,1,2,University,Denmark,Not in relationship,Green,40-59
+Male,1,3,University,Denmark,Not in relationship,Red,40-59
+Female,0,3,University,Denmark,Not in relationship,Green,40-59
+Male,0,2,University,Denmark,Not in relationship,Green,40-59
+Female,0,1,University,Denmark,Not in relationship,Green,40-59
+Female,0,1,Other,Denmark,Not in relationship,Red,40-59
+Male,0,1,Other,Denmark,In relationship,Green,40-59
+Female,1,1,University,Denmark,In relationship,Red,40-59
+Female,0,2,University,Denmark,In relationship,Red,40-59
+Female,1,1,Other,Denmark,Not in relationship,Green,40-59
+Female,1,2,Other,Other,Not in relationship,Red,40-59
+Female,0,2,University,Denmark,In relationship,Red,40-59
+Female,0,2,University,Denmark,Not in relationship,Red,40-59
+Female,0,2,University,Denmark,In relationship,Red,40-59
+Male,0,2,Other,Denmark,In relationship,Green,40-59
+Male,0,0,University,Denmark,In relationship,Green,40-59
+Male,0,1,Other,Other,Not in relationship,Green,40-59
+Male,1,0,Other,Denmark,Not in relationship,Green,40-59
+Male,0,2,Other,Denmark,In relationship,Green,40-59
+Female,0,3,University,Denmark,Not in relationship,Green,40-59
+Male,0,2,Other,Denmark,In relationship,Green,40-59
+Female,0,2,Other,Denmark,Not in relationship,Red,40-59
+Male,0,3,Other,Denmark,Not in relationship,Green,40-59
+Male,0,3,Other,Denmark,Not in relationship,Green,40-59
+Female,1,2,University,Denmark,Not in relationship,Red,40-59
+Female,1,0,Other,Denmark,Not in relationship,Green,40-59
+Male,0,0,Other,Denmark,Not in relationship,Green,40-59
+Female,1,1,University,Denmark,In relationship,Green,40-59
+Female,0,2,Other,Denmark,In relationship,Red,40-59
+Female,1,0,University,Denmark,Not in relationship,Red,40-59
+Female,0,1,Other,Denmark,In relationship,Red,40-59
+Male,0,3,University,Denmark,In relationship,Green,40-59
+Male,0,0,University,Denmark,Not in relationship,Green,40-59
+Female,0,1,University,Denmark,In relationship,Red,40-59
+Female,0,0,Other,Denmark,Not in relationship,Red,40-59
+Female,0,2,Other,Denmark,In relationship,Red,40-59
+Male,0,2,Other,Denmark,Not in relationship,Green,40-59
+Female,0,1,Other,Denmark,Not in relationship,Green,40-59
+Female,1,0,University,Denmark,In relationship,Red,40-59
+Female,1,3,University,Denmark,Not in relationship,Green,40-59
+Male,1,2,Other,Denmark,In relationship,Green,40-59
+Female,1,0,Other,Denmark,In relationship,Green,40-59
+Female,0,2,University,Denmark,Not in relationship,Green,40-59
+Male,1,1,University,Denmark,In relationship,Green,40-59
+Female,0,0,Other,Denmark,Not in relationship,Green,40-59
+Male,0,3,University,Other,Not in relationship,Red,40-59
+Female,0,0,University,Denmark,In relationship,Red,40-59
+Male,0,2,University,Denmark,In relationship,Green,40-59
+Female,0,3,University,Denmark,In relationship,Green,40-59
+Female,0,2,University,Denmark,Not in relationship,Green,40-59
+Female,0,1,University,Denmark,In relationship,Green,40-59
+Male,0,2,University,Denmark,Not in relationship,Red,40-59
+Female,0,0,University,Denmark,Not in relationship,Green,40-59
+Male,0,3,University,Denmark,Not in relationship,Green,40-59
+Female,1,0,Other,Denmark,Not in relationship,Green,40-59
+Female,1,2,University,Denmark,Not in relationship,Green,40-59
+Male,1,0,Other,Denmark,Not in relationship,Green,40-59
+Male,0,1,Other,Denmark,Not in relationship,Green,40-59
+Male,1,0,Other,Denmark,In relationship,Red,40-59
+Female,0,1,University,Denmark,In relationship,Red,40-59
+Female,0,0,University,Denmark,Not in relationship,Green,40-59
+Male,1,1,Other,Denmark,Not in relationship,Green,40-59
